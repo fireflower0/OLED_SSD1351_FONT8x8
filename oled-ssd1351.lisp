@@ -71,7 +71,7 @@
     (oled-cd-write +oled-data+ (+ y 7))
     
     ;; Start write to ram (#XAF)
-    (dotimes (count1 7)
+    (dotimes (count1 8)
       (setf buf (aref font-8x8 index count1))
       (setf count2 7)
       (loop
