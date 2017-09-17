@@ -35,7 +35,7 @@ Note: Quicklisp is required to run.
 
 ## Installation
 
-    $ git clone https://github.com/fireflower0/OLED-SSD1351.git
+    $ git clone https://github.com/fireflower0/OLED_SSD1351_FONT8x8.git
 
 ## Author
 
